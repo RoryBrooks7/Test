@@ -1,0 +1,6 @@
+Feature: Hello World
+
+  Scenario: Run a hello world test
+     Given We have a hello world program
+      Then We say it is passed
+      
